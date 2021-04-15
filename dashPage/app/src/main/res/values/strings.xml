@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dashboard_Page</string>
+    <string name="hello">Hello</string>
+    <string name="john">John</string>
+    <string name="search_elements">Search Elements</string>
+    <string name="note">NOTE</string>
+    <string name="calendar">CALENDAR</string>
+    <string name="motivation">MOTIVATION</string>
+    <string name="exercises">EXERCISES</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+
+
+</resources>
